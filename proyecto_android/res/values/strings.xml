@@ -4,5 +4,6 @@
     <string name="app_name">proyecto_android</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <color name="dorado">#E8B312</color>
 
 </resources>

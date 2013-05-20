@@ -10,6 +10,9 @@ package com.example.proyecto_android;
 public final class R {
     public static final class attr {
     }
+    public static final class color {
+        public static final int dorado=0x7f060000;
+    }
     public static final class dimen {
         /**  Default screen margins, per the Android Design guidelines. 
 
@@ -27,24 +30,24 @@ public final class R {
         public static final int xo=0x7f020003;
     }
     public static final class id {
-        public static final int TableLayout1=0x7f080000;
-        public static final int action_settings=0x7f08000b;
-        public static final int editText1=0x7f08000a;
-        public static final int imageButton1=0x7f080001;
-        public static final int imageButton2=0x7f080002;
-        public static final int imageButton3=0x7f080003;
-        public static final int imageButton4=0x7f080004;
-        public static final int imageButton5=0x7f080005;
-        public static final int imageButton6=0x7f080006;
-        public static final int imageButton7=0x7f080007;
-        public static final int imageButton8=0x7f080008;
-        public static final int imageButton9=0x7f080009;
+        public static final int TableLayout1=0x7f090000;
+        public static final int action_settings=0x7f09000b;
+        public static final int imageButton1=0x7f090001;
+        public static final int imageButton2=0x7f090002;
+        public static final int imageButton3=0x7f090003;
+        public static final int imageButton4=0x7f090004;
+        public static final int imageButton5=0x7f090005;
+        public static final int imageButton6=0x7f090006;
+        public static final int imageButton7=0x7f090007;
+        public static final int imageButton8=0x7f090008;
+        public static final int imageButton9=0x7f090009;
+        public static final int mensaje=0x7f09000a;
     }
     public static final class layout {
         public static final int activity_tictactoe=0x7f030000;
     }
     public static final class menu {
-        public static final int tictactoe=0x7f070000;
+        public static final int tictactoe=0x7f080000;
     }
     public static final class string {
         public static final int action_settings=0x7f050001;
@@ -73,10 +76,10 @@ public final class R {
     
  API 14 theme customizations can go here. 
          */
-        public static final int AppBaseTheme=0x7f060000;
+        public static final int AppBaseTheme=0x7f070000;
         /**  Application theme. 
  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int AppTheme=0x7f060001;
+        public static final int AppTheme=0x7f070001;
     }
 }
